@@ -1,0 +1,19 @@
+body {
+    font-family: 'Yellowtail', cursive;
+    font-family: 'Damion', cursive;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Fredericka the Great', cursive;
+}
+#navigation {
+    
+}
+
+.intro {
+    font-family: 'Homemade Apple', cursive;
+}
+
+.myName {
+    text-align: center;
+    display: inline-block;
+    align-content: center;
+}
